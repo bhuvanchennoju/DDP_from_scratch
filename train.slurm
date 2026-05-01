@@ -21,7 +21,7 @@ echo "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX "
 
 
 
-source /home/kc2819/.bashrc
+source /home/computer/.bashrc
 conda deactivate
 conda activate torchdev
 
